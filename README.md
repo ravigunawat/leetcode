@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ravigunawat/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ravigunawat/leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ravigunawat/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0278-first-bad-version](https://github.com/ravigunawat/leetcode/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/ravigunawat/leetcode/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ravigunawat/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/ravigunawat/leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->

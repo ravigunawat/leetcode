@@ -5,8 +5,8 @@ public:
         int end = arr.size()-1;
         while(start<=end){
             int mid = start + (end-start)/2;
-            int missing = arr[mid]- (mid+1);
-            if(missing<k){
+            
+            if(arr[mid]- (mid+1)<k){
                 start=mid+1;
             }
             else{

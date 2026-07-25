@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/ravigunawat/leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ravigunawat/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/ravigunawat/leetcode/tree/master/1539-kth-missing-positive-number) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ravigunawat/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/ravigunawat/leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/ravigunawat/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ravigunawat/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->

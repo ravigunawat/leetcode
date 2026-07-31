@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/ravigunawat/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ravigunawat/leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ravigunawat/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/ravigunawat/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1539-kth-missing-positive-number](https://github.com/ravigunawat/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ravigunawat/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Two Pointers
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/ravigunawat/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/ravigunawat/leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ravigunawat/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/ravigunawat/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1539-kth-missing-positive-number](https://github.com/ravigunawat/leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Hash Table
 |  |

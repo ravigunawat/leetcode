@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ravigunawat/leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/ravigunawat/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ravigunawat/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/ravigunawat/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ravigunawat/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ravigunawat/leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/ravigunawat/leetcode/tree/master/0234-palindrome-linked-list) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ravigunawat/leetcode/tree/master/0014-longest-common-prefix) |
+| [0151-reverse-words-in-a-string](https://github.com/ravigunawat/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/ravigunawat/leetcode/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/ravigunawat/leetcode/tree/master/0409-longest-palindrome) |
 ## Trie

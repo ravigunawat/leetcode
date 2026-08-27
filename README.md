@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ravigunawat/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ravigunawat/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/ravigunawat/leetcode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/ravigunawat/leetcode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ravigunawat/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ravigunawat/leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ravigunawat/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ravigunawat/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ravigunawat/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ravigunawat/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/ravigunawat/leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/ravigunawat/leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/ravigunawat/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ravigunawat/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ravigunawat/leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/ravigunawat/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ravigunawat/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0268-missing-number](https://github.com/ravigunawat/leetcode/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/ravigunawat/leetcode/tree/master/0409-longest-palindrome) |
 ## Bit Manipulation
 |  |
@@ -81,10 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ravigunawat/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ravigunawat/leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/ravigunawat/leetcode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/ravigunawat/leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ravigunawat/leetcode/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/ravigunawat/leetcode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
@@ -93,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ravigunawat/leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/ravigunawat/leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/ravigunawat/leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/ravigunawat/leetcode/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/ravigunawat/leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Recursion
 |  |

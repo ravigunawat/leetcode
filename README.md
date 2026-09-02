@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ravigunawat/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/ravigunawat/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ravigunawat/leetcode/tree/master/0268-missing-number) |
+| [1859-sorting-the-sentence](https://github.com/ravigunawat/leetcode/tree/master/1859-sorting-the-sentence) |
 ## Math
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ravigunawat/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ravigunawat/leetcode/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/ravigunawat/leetcode/tree/master/0409-longest-palindrome) |
+| [1859-sorting-the-sentence](https://github.com/ravigunawat/leetcode/tree/master/1859-sorting-the-sentence) |
 ## Trie
 |  |
 | ------- |
@@ -212,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ravigunawat/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/ravigunawat/leetcode/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->

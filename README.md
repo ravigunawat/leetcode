@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/ravigunawat/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ravigunawat/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ravigunawat/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/ravigunawat/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ravigunawat/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ravigunawat/leetcode/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/ravigunawat/leetcode/tree/master/0633-sum-of-square-numbers) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ravigunawat/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ravigunawat/leetcode/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/ravigunawat/leetcode/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ravigunawat/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
 |  |
@@ -246,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ravigunawat/leetcode/tree/master/0022-generate-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ravigunawat/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

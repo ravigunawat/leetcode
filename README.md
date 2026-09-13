@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ravigunawat/leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/ravigunawat/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/ravigunawat/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ravigunawat/leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/ravigunawat/leetcode/tree/master/0260-single-number-iii) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/ravigunawat/leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/ravigunawat/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ravigunawat/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/ravigunawat/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ravigunawat/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ravigunawat/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ravigunawat/leetcode/tree/master/0189-rotate-array) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ravigunawat/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ravigunawat/leetcode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/ravigunawat/leetcode/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/ravigunawat/leetcode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/ravigunawat/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/ravigunawat/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ravigunawat/leetcode/tree/master/0344-reverse-string) |
@@ -252,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ravigunawat/leetcode/tree/master/0070-climbing-stairs) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ravigunawat/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->

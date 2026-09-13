@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ravigunawat/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/ravigunawat/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/ravigunawat/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/ravigunawat/leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ravigunawat/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ravigunawat/leetcode/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ravigunawat/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ravigunawat/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ravigunawat/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/ravigunawat/leetcode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/ravigunawat/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ravigunawat/leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/ravigunawat/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ravigunawat/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/ravigunawat/leetcode/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/ravigunawat/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ravigunawat/leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ravigunawat/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/ravigunawat/leetcode/tree/master/0242-valid-anagram) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bubble Sort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ravigunawat/leetcode/tree/master/0075-sort-colors) |
 | [1859-sorting-the-sentence](https://github.com/ravigunawat/leetcode/tree/master/1859-sorting-the-sentence) |
 ## Sliding Window
 |  |
@@ -259,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ravigunawat/leetcode/tree/master/0067-add-binary) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ravigunawat/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

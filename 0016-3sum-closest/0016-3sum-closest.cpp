@@ -11,9 +11,7 @@ public:
             int right = nums.size() - 1;
             
             while (left < right) {
-                int currentSum = nums[i] + nums[left] + nums[right];
-                
-                
+                int currentSum = nums[i] + nums[left] + nums[right];               
                 if (currentSum == target) {
                     return currentSum;
                 }
